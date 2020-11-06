@@ -13,5 +13,9 @@ even_array = []
       inner_count += 1 
     end 
     
+    count += 1 
+    
   end
+  
+  p even_array 
 end
