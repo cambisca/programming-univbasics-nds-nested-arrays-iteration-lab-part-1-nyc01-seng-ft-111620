@@ -11,6 +11,7 @@ even_array = []
     if inner_count < nested_array[count].length && inner_count % 2 == 0 
       even_array << nested_array[count][inner_count] 
       inner_count += 1 
-  
+    end 
+    
   end
 end
