@@ -9,7 +9,7 @@ even_array = []
     inner_count = 0 
     
     if inner_count < nested_array[count].length && inner_count % 2 == 0 
-      
+      even_array << 
   
   end
 end
