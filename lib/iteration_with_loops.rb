@@ -6,7 +6,9 @@ count = 0
 even_array = []
 
   while count < nested_array.length do 
+    inner_count = 0 
     
+    if inner_count < 
   
   end
 end
