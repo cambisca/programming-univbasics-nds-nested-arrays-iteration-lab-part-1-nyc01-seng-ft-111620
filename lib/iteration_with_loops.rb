@@ -8,7 +8,8 @@ even_array = []
   while count < nested_array.length do 
     inner_count = 0 
     
-    if inner_count < 
+    if inner_count < nested_array[count].length && inner_count % 2 == 0 
+      
   
   end
 end
