@@ -5,6 +5,7 @@ def find_even_values(nested_array)
 count = 0 
 even_array = []
 
-  while
-end
+  while count < nested_array.length 
+  
+  end
 end
