@@ -17,5 +17,5 @@ even_array = []
     
   end
   
-  p even_array 
+  puts even_array 
 end
